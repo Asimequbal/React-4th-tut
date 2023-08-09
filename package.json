@@ -1,0 +1,33 @@
+{
+  "name": "react-4th-calss",
+  "version": "1.0.0",
+  "description": "React 04",
+  "scripts": {
+    "start": "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asimequbal/React-4th-tut.git"
+  },
+  "keywords": [],
+  "author": "asim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asimequbal/React-4th-tut/issues"
+  },
+  "homepage": "https://github.com/Asimequbal/React-4th-tut#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  
+  "browserslist":[
+    "last 2 version"
+  ]
+}

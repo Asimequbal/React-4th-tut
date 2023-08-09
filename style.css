@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;box-sizing: border-box;}
+.header{display: flex; justify-content: space-between; background-color: #0000000D; align-items: center;}
+.logo-container img{width: 50px; background-blend-mode: color-burn;}
+.nav-items ul li{list-style: none;}
+.nav-items ul{display: flex; gap: 20px; padding: 20px 50px;}
+.Restraunt-Card{width: 200px; height: 250px; }
+.Restraunt-Card:hover{cursor: pointer;  border: 1px solid #1d1d1f;}
+.Restraunt-Card h1{font-size: 14px; font-weight: 600;padding: 4px 4px;}
+.res-img{width: 100%;}
+.rest-container{display: flex; flex-wrap: wrap; gap: 14px; flex-grow: 1;}
